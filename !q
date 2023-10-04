@@ -1,0 +1,50 @@
+[33mcommit 0dc8a5360639f48fffb7cc7db4bca3f5d5501a4c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 81533bd a14a3a6
+Author: Lavesh Khairajani <115465151+LaveshK11@users.noreply.github.com>
+Date:   Mon Aug 7 17:18:28 2023 +0530
+
+    Merge branch 'main' of https://github.com/LaveshK11/discord-bot
+
+[33mcommit 81533bd682974ae1063d679ef82ca33979b6fa1f[m
+Author: Lavesh Khairajani <115465151+LaveshK11@users.noreply.github.com>
+Date:   Mon Aug 7 17:17:23 2023 +0530
+
+    added mailing freature
+
+[33mcommit a14a3a6e0775c8b7433e2353d00fee1ccddce235[m
+Author: Lavesh Khairajani <115465151+LaveshK11@users.noreply.github.com>
+Date:   Fri Aug 4 16:57:18 2023 +0530
+
+    Update package.json
+
+[33mcommit d95ff99ba17d0f9a6103bfd5a8d0965ec905d4ad[m
+Author: Lavesh Khairajani <115465151+LaveshK11@users.noreply.github.com>
+Date:   Fri Aug 4 16:53:39 2023 +0530
+
+    Update .env
+
+[33mcommit 4082e91dc4d220c95241de4137935118ff84fe66[m
+Author: Lavesh Khairajani <115465151+LaveshK11@users.noreply.github.com>
+Date:   Fri Aug 4 16:43:11 2023 +0530
+
+    Update package.json
+
+[33mcommit cfb358ca697b82c0036ec3906fb17e2ec570581d[m
+Author: Lavesh Khairajani <115465151+LaveshK11@users.noreply.github.com>
+Date:   Fri Aug 4 16:42:14 2023 +0530
+
+    Update package.json
+
+[33mcommit 6efadde5e57a73b05540fc467584766070977a79[m
+Author: Lavesh Khairajani <115465151+LaveshK11@users.noreply.github.com>
+Date:   Fri Aug 4 15:13:51 2023 +0530
+
+    Updated code
+    
+    Updated code added
+
+[33mcommit 418b470b5827c62beadc09579c9c6fb9db0f8401[m
+Author: Lavesh Khairajani <115465151+LaveshK11@users.noreply.github.com>
+Date:   Fri Aug 4 15:11:35 2023 +0530
+
+    Initial commit
