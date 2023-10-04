@@ -9,7 +9,8 @@ client.on('ready', async () => {
     console.log(`Logged in as ${client.user.tag}!`);
 });
 
-// ne code 
+// code push her e
+
 mongoConnect()
 cronRun()
 
